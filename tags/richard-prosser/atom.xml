@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: Richard Prosser | Bowdon Men's 5th Team]]></title>
-  <link href="http://www.bowdon5.com/tags/richard-prosser/atom.xml" rel="self"/>
-  <link href="http://www.bowdon5.com/"/>
-  <updated>2014-10-20T15:55:31+01:00</updated>
-  <id>http://www.bowdon5.com/</id>
+  <link href="http://bowdon6.github.io/tags/richard-prosser/atom.xml" rel="self"/>
+  <link href="http://bowdon6.github.io/"/>
+  <updated>2014-10-21T11:27:42+01:00</updated>
+  <id>http://bowdon6.github.io/</id>
   <author>
     <name><![CDATA[The Captain]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Northop Hall Match Report]]></title>
-    <link href="http://www.bowdon5.com/match-reports/bowdon-v-northop-hall-match-report/"/>
+    <link href="http://bowdon6.github.io/match-reports/bowdon-v-northop-hall-match-report/"/>
     <updated>2012-10-21T00:00:00+01:00</updated>
-    <id>http://www.bowdon5.com/match-reports/bowdon-v-northop-hall-match-report</id>
+    <id>http://bowdon6.github.io/match-reports/bowdon-v-northop-hall-match-report</id>
     <content type="html"><![CDATA[<p>Courtesy of Mr Prosser:</p>
 
 <p>Following a win and a draw in the last two games, hopes were high for the match against Northop Hall 3s. Those hopes were soon to be dashed with the team consisting of only 10 players, Bowdon were up against it from the start.</p>

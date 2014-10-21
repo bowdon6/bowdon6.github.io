@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: friendly | Bowdon Men's 5th Team]]></title>
-  <link href="http://www.bowdon5.com/tags/friendly/atom.xml" rel="self"/>
-  <link href="http://www.bowdon5.com/"/>
-  <updated>2014-10-20T15:55:31+01:00</updated>
-  <id>http://www.bowdon5.com/</id>
+  <link href="http://bowdon6.github.io/tags/friendly/atom.xml" rel="self"/>
+  <link href="http://bowdon6.github.io/"/>
+  <updated>2014-10-21T11:27:42+01:00</updated>
+  <id>http://bowdon6.github.io/</id>
   <author>
     <name><![CDATA[The Captain]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Didsbury v Bowdon Match Report]]></title>
-    <link href="http://www.bowdon5.com/match-reports/didsbury-v-bowdon-match-report/"/>
+    <link href="http://bowdon6.github.io/match-reports/didsbury-v-bowdon-match-report/"/>
     <updated>2012-09-23T00:00:00+01:00</updated>
-    <id>http://www.bowdon5.com/match-reports/didsbury-v-bowdon-match-report</id>
+    <id>http://bowdon6.github.io/match-reports/didsbury-v-bowdon-match-report</id>
     <content type="html"><![CDATA[<p>My second match in charge and after last weeks debacle I had a lot to prove on the captaincy front…</p>
 
 <p>On the plus side, we had 11 players (once Balf got out of his pit), we had opposition and we had a pitch to play on. Things were definitely looking up.</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Bowdon Men's 5th Team]]></title>
-  <link href="http://www.bowdon5.com/atom.xml" rel="self"/>
-  <link href="http://www.bowdon5.com/"/>
-  <updated>2014-10-20T15:55:31+01:00</updated>
-  <id>http://www.bowdon5.com/</id>
+  <link href="http://bowdon6.github.io/atom.xml" rel="self"/>
+  <link href="http://bowdon6.github.io/"/>
+  <updated>2014-10-21T11:27:42+01:00</updated>
+  <id>http://bowdon6.github.io/</id>
   <author>
     <name><![CDATA[The Captain]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Chester 4]]></title>
-    <link href="http://www.bowdon5.com/blog/2014/10/15/bowdon-v-chester-4/"/>
+    <link href="http://bowdon6.github.io/blog/2014/10/15/bowdon-v-chester-4/"/>
     <updated>2014-10-15T08:54:00+01:00</updated>
-    <id>http://www.bowdon5.com/blog/2014/10/15/bowdon-v-chester-4</id>
+    <id>http://bowdon6.github.io/blog/2014/10/15/bowdon-v-chester-4</id>
     <content type="html"><![CDATA[<p>After the previous weeks heroics against the student horde of North Wales could the 5th XI continue their march up the table.</p>
 
 <p>The drama started the day before with messages filtering through Facesplat that Carl ‘strongside’ Bailey had been locked out of his flat &amp; was in need of a home shirt.  Would he be able to aquire one &amp; get to the Grammar for the early meet-time?</p>
@@ -40,9 +40,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Bangor 2]]></title>
-    <link href="http://www.bowdon5.com/blog/2014/10/08/bowdon-v-bangor-2/"/>
+    <link href="http://bowdon6.github.io/blog/2014/10/08/bowdon-v-bangor-2/"/>
     <updated>2014-10-08T19:10:00+01:00</updated>
-    <id>http://www.bowdon5.com/blog/2014/10/08/bowdon-v-bangor-2</id>
+    <id>http://bowdon6.github.io/blog/2014/10/08/bowdon-v-bangor-2</id>
     <content type="html"><![CDATA[<p>After last week&#8217;s titanic struggle with Alderley Edge (match report Francis?),
 the finest Men&#8217;s 5th team in Bowdon needed to bounce back against Bangor Uni 2s
 with a win to consolidate their league position.</p>
@@ -85,9 +85,9 @@ scored the resulting flick, giving the keeper no chance.</p>
   
   <entry>
     <title type="html"><![CDATA[Bowdon 5 v South Cheshire 2]]></title>
-    <link href="http://www.bowdon5.com/blog/2014/09/21/bowdon5-v-south-cheshire-2/"/>
+    <link href="http://bowdon6.github.io/blog/2014/09/21/bowdon5-v-south-cheshire-2/"/>
     <updated>2014-09-21T12:54:00+01:00</updated>
-    <id>http://www.bowdon5.com/blog/2014/09/21/bowdon5-v-south-cheshire-2</id>
+    <id>http://bowdon6.github.io/blog/2014/09/21/bowdon5-v-south-cheshire-2</id>
     <content type="html"><![CDATA[<p><strong>First (long) match report of the season from our fearless leader. Never let it be said that he likes the sound of his own voice&#8230;</strong></p>
 
 <p>A brand new season, a new division, new opposition and a new name. Bowdon 6 was now Bowdon 5, new and improved. After a successful season last year resulting in promotion. The goal this season is survival. Pre match it didn&#8217;t start well. The lose of Goal Keeper Dave Jefferies and two of the solid back four in Peter McNaught and last season Man of the Season Chris Gawne certainly didn&#8217;t help, we also lost last years quasi captain Frank Fallon, the team then lost actual captain Hatch to a stroke on Monday Night.</p>
@@ -165,9 +165,9 @@ Subs: Prosser, Gadsby
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Brooklands]]></title>
-    <link href="http://www.bowdon5.com/blog/2014/02/27/bowdon-v-brooklands/"/>
+    <link href="http://bowdon6.github.io/blog/2014/02/27/bowdon-v-brooklands/"/>
     <updated>2014-02-27T16:32:00+00:00</updated>
-    <id>http://www.bowdon5.com/blog/2014/02/27/bowdon-v-brooklands</id>
+    <id>http://bowdon6.github.io/blog/2014/02/27/bowdon-v-brooklands</id>
     <content type="html"><![CDATA[<p>On Saturday the best Men’s 6th team in Bowdon rallied for what we knew would be a tough game against a youthful Brooklands side.</p>
 
 <p>After starting sloppy and inviting far too much pressure from the visitors, Bowdon found there rhythm and with a nice one-two down the right hand side of the pitch Breton finished off a training ground routine that would make Jimmy proud.</p>
@@ -189,9 +189,9 @@ DOD – I can’t remember but it’s usually Kyle!</p>
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Sale]]></title>
-    <link href="http://www.bowdon5.com/blog/2014/02/09/bowdon-v-sale/"/>
+    <link href="http://bowdon6.github.io/blog/2014/02/09/bowdon-v-sale/"/>
     <updated>2014-02-09T21:42:00+00:00</updated>
-    <id>http://www.bowdon5.com/blog/2014/02/09/bowdon-v-sale</id>
+    <id>http://bowdon6.github.io/blog/2014/02/09/bowdon-v-sale</id>
     <content type="html"><![CDATA[<p>Wind, rain and locked gates greeted the heroic Bowdon 6th team as they attempted to cement their top of the table position. Mindful of a tight game last time around the team buckled down quickly, moving the ball fluently and playing some liquid hockey of a standard usually only seen at international level.</p>
 
 <p>Such was the level of concentration that your correspondent is not sure of the order of the goals scored or indeed the moves that led to them so apologies for any errors in the following.</p>
@@ -222,18 +222,18 @@ DOD – I can’t remember but it’s usually Kyle!</p>
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Macclesfield]]></title>
-    <link href="http://www.bowdon5.com/blog/2014/02/09/bowdon-v-macclesfield/"/>
+    <link href="http://bowdon6.github.io/blog/2014/02/09/bowdon-v-macclesfield/"/>
     <updated>2014-02-09T21:41:00+00:00</updated>
-    <id>http://www.bowdon5.com/blog/2014/02/09/bowdon-v-macclesfield</id>
+    <id>http://bowdon6.github.io/blog/2014/02/09/bowdon-v-macclesfield</id>
     <content type="html"><![CDATA[<p>We won, it rained!</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Knutsford]]></title>
-    <link href="http://www.bowdon5.com/blog/2014/02/09/bowdon-v-knutsford/"/>
+    <link href="http://bowdon6.github.io/blog/2014/02/09/bowdon-v-knutsford/"/>
     <updated>2014-02-09T21:41:00+00:00</updated>
-    <id>http://www.bowdon5.com/blog/2014/02/09/bowdon-v-knutsford</id>
+    <id>http://bowdon6.github.io/blog/2014/02/09/bowdon-v-knutsford</id>
     <content type="html"><![CDATA[<p>It&#8217;s unforgivable not to write match reports. In my defence I was only told the week after the match and the team Xmas do had happened in the intervening period which wiped out some memory cells. So, two months later, here goes:
 Knutsford is a lovely ancient market town in North Cheshire whose name comes from a river crossing  reputed to have been made by King Canute (king of England (1016–1035) and later king of Denmark, Norway and parts of Sweden as well). Having travelled via the A556 and A50 Bowdon&#8217;s crack hockey team made a similar crossing but our journey is perhaps less likely to be preserved for posterity other than in this match report.</p>
 
@@ -249,9 +249,9 @@ Knutsford is a lovely ancient market town in North Cheshire whose name comes fro
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Crewe]]></title>
-    <link href="http://www.bowdon5.com/blog/2014/01/05/bowdon-v-crewe/"/>
+    <link href="http://bowdon6.github.io/blog/2014/01/05/bowdon-v-crewe/"/>
     <updated>2014-01-05T12:10:00+00:00</updated>
-    <id>http://www.bowdon5.com/blog/2014/01/05/bowdon-v-crewe</id>
+    <id>http://bowdon6.github.io/blog/2014/01/05/bowdon-v-crewe</id>
     <content type="html"><![CDATA[<p>Match report courtesy of James Tennant&#8230;</p>
 
 <p>This fine cloudy saturday afternoon at
@@ -277,9 +277,9 @@ south downs road, bowdon mens 6th team stepped onto the pitch. With a super earl
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Wilmslow]]></title>
-    <link href="http://www.bowdon5.com/blog/2013/12/01/bowdon-v-wilmslow/"/>
+    <link href="http://bowdon6.github.io/blog/2013/12/01/bowdon-v-wilmslow/"/>
     <updated>2013-12-01T09:50:00+00:00</updated>
-    <id>http://www.bowdon5.com/blog/2013/12/01/bowdon-v-wilmslow</id>
+    <id>http://bowdon6.github.io/blog/2013/12/01/bowdon-v-wilmslow</id>
     <content type="html"><![CDATA[<p>This week&#8217;s match report is brought to you by the Scottish Captain.</p>
 
 <p>The best men’s 6th team in Bowdon travelled the long difficult journey across the M56 to Wilmslow to play a 3rds team with very varied results. Bowdon knew going into the game that with a few ill timed trips on stag do&#8217;s, exams and trips away, that the team would have a new look to it in places.</p>
@@ -321,9 +321,9 @@ Dick of the Day: The only nom was for their umpire. Mainly for the most blatant 
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Alderley Edge 6]]></title>
-    <link href="http://www.bowdon5.com/blog/2013/11/17/bowdon-v-alderley-edge-6/"/>
+    <link href="http://bowdon6.github.io/blog/2013/11/17/bowdon-v-alderley-edge-6/"/>
     <updated>2013-11-17T09:33:00+00:00</updated>
-    <id>http://www.bowdon5.com/blog/2013/11/17/bowdon-v-alderley-edge-6</id>
+    <id>http://bowdon6.github.io/blog/2013/11/17/bowdon-v-alderley-edge-6</id>
     <content type="html"><![CDATA[<p>From our man in Altrincham, Neil Breton</p>
 
 <p>At Captain Kyle&#8217;s request, the squad turned up for the match 45 before push back. This meant that 15 minutes before push back we&#8217;d run out of drills to do, so a lengthy team talk resulted to fill a bit of time.</p>
@@ -342,9 +342,9 @@ Dick of the Day: The only nom was for their umpire. Mainly for the most blatant 
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Runcorn]]></title>
-    <link href="http://www.bowdon5.com/blog/2013/11/17/bowdon-v-runcorn/"/>
+    <link href="http://bowdon6.github.io/blog/2013/11/17/bowdon-v-runcorn/"/>
     <updated>2013-11-17T09:30:00+00:00</updated>
-    <id>http://www.bowdon5.com/blog/2013/11/17/bowdon-v-runcorn</id>
+    <id>http://bowdon6.github.io/blog/2013/11/17/bowdon-v-runcorn</id>
     <content type="html"><![CDATA[<p>Better late than never. This week&#8217;s report is from Mr G. Perry</p>
 
 <p>Bowdon visited one of the most beautiful hockey grounds in West Warrington for their game against Runcorn. Dale Jago was very fortunate as it&#8217;s was a home game in reality. The newly self appointed fascist dictator, Herr Mr I&#8217;m Not Sure Where I&#8217;m From Hatch gave one of the most unrousing team talks ever, pretty much destroying any morale which we had. As a direct result of such an uninspiring team talk we went one nil down. Thankfully Perry was on hand to level with a Gareth Bale-esque 59 yard weaving run and finish. Runcorn retook the lead, despite Freds dodgy touch the goal was still blamed on the captains poor prematch chat. At 2:1 Bowdon at half time the new skipper laid into his troops and got the reaction which his words commanded. A stunning second half display insued with 3 fine goals unanswered by the home team. The 4:2 final score may have flattered to deceive but in reality the discerning hockey brain knew that Bowdon had simply worn down the opposition to submission. The conclusion to the game was kindly summed up by words from Alan Hansen, a good team wins even when it is playing badly. Long may this fine run of bad form continue!</p>
@@ -353,9 +353,9 @@ Dick of the Day: The only nom was for their umpire. Mainly for the most blatant 
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Timperley]]></title>
-    <link href="http://www.bowdon5.com/blog/2013/10/28/bowdon-v-timperley/"/>
+    <link href="http://bowdon6.github.io/blog/2013/10/28/bowdon-v-timperley/"/>
     <updated>2013-10-28T08:05:00+00:00</updated>
-    <id>http://www.bowdon5.com/blog/2013/10/28/bowdon-v-timperley</id>
+    <id>http://bowdon6.github.io/blog/2013/10/28/bowdon-v-timperley</id>
     <content type="html"><![CDATA[<p>From the imagination of Mr N West&#8230;</p>
 
 <p>The time had arrived once again for the 6th XI to step out onto the field of play.</p>
@@ -382,9 +382,9 @@ Dick of the Day: The only nom was for their umpire. Mainly for the most blatant 
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Sale]]></title>
-    <link href="http://www.bowdon5.com/blog/2013/10/20/bowdon-v-sale/"/>
+    <link href="http://bowdon6.github.io/blog/2013/10/20/bowdon-v-sale/"/>
     <updated>2013-10-20T09:47:00+01:00</updated>
-    <id>http://www.bowdon5.com/blog/2013/10/20/bowdon-v-sale</id>
+    <id>http://bowdon6.github.io/blog/2013/10/20/bowdon-v-sale</id>
     <content type="html"><![CDATA[<p>From our correspondent Mr C. Gawne.</p>
 
 <p>Important questions played on the minds of the brave men of Bowdon as they warmed up ahead of today’s match. Had Braithwaite and Jago found the dummies they spat last week? How would our half-a-coach cope with the uncoachables? Could anyone score a goal in the absence of our two top scorers?</p>
@@ -410,9 +410,9 @@ honest mistake. Man of the match: Gawne (unaccountably)</p>
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Brooklands]]></title>
-    <link href="http://www.bowdon5.com/blog/2013/10/15/bowdon-v-brooklands/"/>
+    <link href="http://bowdon6.github.io/blog/2013/10/15/bowdon-v-brooklands/"/>
     <updated>2013-10-15T09:52:00+01:00</updated>
-    <id>http://www.bowdon5.com/blog/2013/10/15/bowdon-v-brooklands</id>
+    <id>http://bowdon6.github.io/blog/2013/10/15/bowdon-v-brooklands</id>
     <content type="html"><![CDATA[<p>Dave was man of the match again following this game, but I was unaccountably voted Dick of the Day so I am writing this under protest.</p>
 
 <p>In my defence I feel I was provoked into my little tantrum at Dale. I just pointed out that I didn&#8217;t find his criticism either constructive or helpful. I may have have raised my voice a little, but under the circumstances I believe it was entirely justified.</p>
@@ -429,9 +429,9 @@ honest mistake. Man of the match: Gawne (unaccountably)</p>
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Alderley Edge 5]]></title>
-    <link href="http://www.bowdon5.com/blog/2013/10/08/bowdon-v-alderley-edge-5/"/>
+    <link href="http://bowdon6.github.io/blog/2013/10/08/bowdon-v-alderley-edge-5/"/>
     <updated>2013-10-08T20:19:00+01:00</updated>
-    <id>http://www.bowdon5.com/blog/2013/10/08/bowdon-v-alderley-edge-5</id>
+    <id>http://bowdon6.github.io/blog/2013/10/08/bowdon-v-alderley-edge-5</id>
     <content type="html"><![CDATA[<p>From Man of the Match Dave Jeffery&#8230;</p>
 
 <p><span class='caption-wrapper left'><img class='caption' src='http://bowdon6.s.greenqloud.com/cartman.jpg' width='250' height='170' alt='You will respect the Captain's Authoritah' title='You will respect the Captain's Authoritah'><span class='caption-text'>You will respect the Captain&#8217;s Authoritah</span></span></p>
@@ -458,9 +458,9 @@ honest mistake. Man of the match: Gawne (unaccountably)</p>
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Deeside]]></title>
-    <link href="http://www.bowdon5.com/blog/2013/09/30/bowdon-v-deeside/"/>
+    <link href="http://bowdon6.github.io/blog/2013/09/30/bowdon-v-deeside/"/>
     <updated>2013-09-30T09:48:00+01:00</updated>
-    <id>http://www.bowdon5.com/blog/2013/09/30/bowdon-v-deeside</id>
+    <id>http://bowdon6.github.io/blog/2013/09/30/bowdon-v-deeside</id>
     <content type="html"><![CDATA[<p>This week&#8217;s match report is brought to you by Ben Fallon:</p>
 
 <p>Bowdon 6th team&#8217;s moral was high given their top of the league position and 11-0 thrashing of Macclesfield a week earlier. Due to Hatch&#8217;s insistence on finding a keepers kit that matched his shoes, F. Fallon, B. Fallon and Hatch arrived to the game at 12.35 for the 12.30 push back. Deeside were insistent on starting the game as soon as possible and so Bowdon began their second game of the season with eleven outfield players and no goalkeeper.</p>
@@ -483,9 +483,9 @@ honest mistake. Man of the match: Gawne (unaccountably)</p>
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Macclesfield]]></title>
-    <link href="http://www.bowdon5.com/blog/2013/09/23/bowdon-v-macclesfield/"/>
+    <link href="http://bowdon6.github.io/blog/2013/09/23/bowdon-v-macclesfield/"/>
     <updated>2013-09-23T13:45:00+01:00</updated>
-    <id>http://www.bowdon5.com/blog/2013/09/23/bowdon-v-macclesfield</id>
+    <id>http://bowdon6.github.io/blog/2013/09/23/bowdon-v-macclesfield</id>
     <content type="html"><![CDATA[<p>As promised, I have limited the report to only 3 words for each player. In short, the 6th team launched their 2013-14 league campaign in the fashion which their supporters have become accustomed to, beating Macclesfield 11-0, top go to the top of the league.</p>
 
 <p>The following performers all played their part:</p>
@@ -517,9 +517,9 @@ honest mistake. Man of the match: Gawne (unaccountably)</p>
   
   <entry>
     <title type="html"><![CDATA[2012 Season Report]]></title>
-    <link href="http://www.bowdon5.com/information/2012-season-report/"/>
+    <link href="http://bowdon6.github.io/information/2012-season-report/"/>
     <updated>2013-05-08T14:58:00+01:00</updated>
-    <id>http://www.bowdon5.com/information/2013-agm-report</id>
+    <id>http://bowdon6.github.io/information/2013-agm-report</id>
     <content type="html"><![CDATA[<p>The sixth team have had good season this year. A solid core of players who played every week made things pretty simple for the captain.</p>
 
 <p>The team was the best represented at club training with 6 or 7 players turning out each week. Thanks to Jimmy for attempting to get us to play hockey! I think it really did help, and we looked like we knew what we were doing a couple of times over the course of the season.</p>
@@ -536,9 +536,9 @@ honest mistake. Man of the match: Gawne (unaccountably)</p>
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Bebington 4]]></title>
-    <link href="http://www.bowdon5.com/match-reports/bowdon-v-bebington-4/"/>
+    <link href="http://bowdon6.github.io/match-reports/bowdon-v-bebington-4/"/>
     <updated>2013-03-09T00:00:00+00:00</updated>
-    <id>http://www.bowdon5.com/match-reports/bowdon-v-bebington-4</id>
+    <id>http://bowdon6.github.io/match-reports/bowdon-v-bebington-4</id>
     <content type="html"><![CDATA[<p>This week’s match report is from the Lady Doctor…</p>
 
 <p>Bebbington 4s (maybe some 5s) vs Bowdon 6s</p>
@@ -569,9 +569,9 @@ honest mistake. Man of the match: Gawne (unaccountably)</p>
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Wrexham]]></title>
-    <link href="http://www.bowdon5.com/match-reports/bowdon-v-wrexham/"/>
+    <link href="http://bowdon6.github.io/match-reports/bowdon-v-wrexham/"/>
     <updated>2013-03-06T00:00:00+00:00</updated>
-    <id>http://www.bowdon5.com/match-reports/bowdon-v-wrexham</id>
+    <id>http://bowdon6.github.io/match-reports/bowdon-v-wrexham</id>
     <content type="html"><![CDATA[<p>From the senior Brooks…</p>
 
 <p>We started our Saturday on a solid footing with the captain arranging a meet so we arrived in Wrexham 50mins earlier. This is the excuse I am using for everyone not quite being awake when the whistle blew to start the match.</p>

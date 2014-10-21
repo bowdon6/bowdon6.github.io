@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: Peter McNaught | Bowdon Men's 5th Team]]></title>
-  <link href="http://www.bowdon5.com/tags/peter-mcnaught/atom.xml" rel="self"/>
-  <link href="http://www.bowdon5.com/"/>
-  <updated>2014-10-20T15:55:31+01:00</updated>
-  <id>http://www.bowdon5.com/</id>
+  <link href="http://bowdon6.github.io/tags/peter-mcnaught/atom.xml" rel="self"/>
+  <link href="http://bowdon6.github.io/"/>
+  <updated>2014-10-21T11:27:42+01:00</updated>
+  <id>http://bowdon6.github.io/</id>
   <author>
     <name><![CDATA[The Captain]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Wilmslow]]></title>
-    <link href="http://www.bowdon5.com/match-reports/bowdon-v-wilmslow/"/>
+    <link href="http://bowdon6.github.io/match-reports/bowdon-v-wilmslow/"/>
     <updated>2013-02-23T00:00:00+00:00</updated>
-    <id>http://www.bowdon5.com/match-reports/bowdon-v-wilmslow</id>
+    <id>http://bowdon6.github.io/match-reports/bowdon-v-wilmslow</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>This weeks guest correspondent, Mr P McNaught.</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: AGM | Bowdon Men's 5th Team]]></title>
-  <link href="http://www.bowdon5.com/tags/agm/atom.xml" rel="self"/>
-  <link href="http://www.bowdon5.com/"/>
-  <updated>2014-10-20T15:55:31+01:00</updated>
-  <id>http://www.bowdon5.com/</id>
+  <link href="http://bowdon6.github.io/tags/agm/atom.xml" rel="self"/>
+  <link href="http://bowdon6.github.io/"/>
+  <updated>2014-10-21T11:27:42+01:00</updated>
+  <id>http://bowdon6.github.io/</id>
   <author>
     <name><![CDATA[The Captain]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[2012 Season Report]]></title>
-    <link href="http://www.bowdon5.com/information/2012-season-report/"/>
+    <link href="http://bowdon6.github.io/information/2012-season-report/"/>
     <updated>2013-05-08T14:58:00+01:00</updated>
-    <id>http://www.bowdon5.com/information/2013-agm-report</id>
+    <id>http://bowdon6.github.io/information/2013-agm-report</id>
     <content type="html"><![CDATA[<p>The sixth team have had good season this year. A solid core of players who played every week made things pretty simple for the captain.</p>
 
 <p>The team was the best represented at club training with 6 or 7 players turning out each week. Thanks to Jimmy for attempting to get us to play hockey! I think it really did help, and we looked like we knew what we were doing a couple of times over the course of the season.</p>

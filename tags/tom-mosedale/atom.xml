@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: Tom Mosedale | Bowdon Men's 5th Team]]></title>
-  <link href="http://www.bowdon5.com/tags/tom-mosedale/atom.xml" rel="self"/>
-  <link href="http://www.bowdon5.com/"/>
-  <updated>2014-10-20T15:55:31+01:00</updated>
-  <id>http://www.bowdon5.com/</id>
+  <link href="http://bowdon6.github.io/tags/tom-mosedale/atom.xml" rel="self"/>
+  <link href="http://bowdon6.github.io/"/>
+  <updated>2014-10-21T11:27:42+01:00</updated>
+  <id>http://bowdon6.github.io/</id>
   <author>
     <name><![CDATA[The Captain]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Bebington 4]]></title>
-    <link href="http://www.bowdon5.com/match-reports/bowdon-v-bebington-4/"/>
+    <link href="http://bowdon6.github.io/match-reports/bowdon-v-bebington-4/"/>
     <updated>2013-03-09T00:00:00+00:00</updated>
-    <id>http://www.bowdon5.com/match-reports/bowdon-v-bebington-4</id>
+    <id>http://bowdon6.github.io/match-reports/bowdon-v-bebington-4</id>
     <content type="html"><![CDATA[<p>This week’s match report is from the Lady Doctor…</p>
 
 <p>Bebbington 4s (maybe some 5s) vs Bowdon 6s</p>

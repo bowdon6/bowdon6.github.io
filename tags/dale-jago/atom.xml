@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: Dale Jago | Bowdon Men's 5th Team]]></title>
-  <link href="http://www.bowdon5.com/tags/dale-jago/atom.xml" rel="self"/>
-  <link href="http://www.bowdon5.com/"/>
-  <updated>2014-10-20T15:55:31+01:00</updated>
-  <id>http://www.bowdon5.com/</id>
+  <link href="http://bowdon6.github.io/tags/dale-jago/atom.xml" rel="self"/>
+  <link href="http://bowdon6.github.io/"/>
+  <updated>2014-10-21T11:27:42+01:00</updated>
+  <id>http://bowdon6.github.io/</id>
   <author>
     <name><![CDATA[The Captain]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bowdon v Bebington 5 Match Report]]></title>
-    <link href="http://www.bowdon5.com/match-reports/bowdon-v-bebington-5-match-report/"/>
+    <link href="http://bowdon6.github.io/match-reports/bowdon-v-bebington-5-match-report/"/>
     <updated>2012-10-28T00:00:00+01:00</updated>
-    <id>http://www.bowdon5.com/match-reports/bowdon-v-bebington-5-match-report</id>
+    <id>http://bowdon6.github.io/match-reports/bowdon-v-bebington-5-match-report</id>
     <content type="html"><![CDATA[<p>This week brought to you by Mr Dale Jago:</p>
 
 <p>After a loss last week under difficult circumstances the sixth team were looking for a convincing win to boost morale.</p>
